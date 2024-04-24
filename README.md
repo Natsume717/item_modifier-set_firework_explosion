@@ -1,0 +1,2 @@
+# item_modifier-set_firework_explosion
+item_modifierの1項目であるset_firework_explosionのサンプルになります。
