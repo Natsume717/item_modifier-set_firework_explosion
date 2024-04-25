@@ -1,0 +1,13 @@
+{
+    "function": "minecraft:set_firework_explosion",
+    "shape": "creeper",
+    "colors": [
+      9355227
+    ],
+    "fade_colors": [
+      4946973
+    ],
+    "trail": true,
+    "twinkle": true
+  }
+  
