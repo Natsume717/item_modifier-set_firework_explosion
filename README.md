@@ -1,8 +1,7 @@
 # item_modifier-set_firework_explosion
 item_modifierの1項目であるset_firework_explosionのサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】set_firework_explosionで花火の星を設定する【item_modifier】](https://natsumake.com/item_modifier-set_firework_explosion/)』を参考にしてください。
 
 <h3>概要</h3>
 花火の星に対して、打ち上げ時の情報を設定することが出来ます。
